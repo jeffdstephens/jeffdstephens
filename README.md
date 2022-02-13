@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! :punch:
 
-<!--
-**jeffdstephens/jeffdstephens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my little corner of GitHub. 
 
-Here are some ideas to get you started:
+This is where I get the chance to play around and code since I no longer get the chance to do that in my day job. 😭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently the CTO at [Dignari](https://www.dignari.com)  
+- :us: I'm in the Washington, D.C. area
+- :notebook: I'm constantly looking to learn new technologies
+- 💻 I started coding in the mid-90s
+- 🌱 I’m currently playing around mostly with Vue
+- 💼 You can read my origin story and technical journey [HERE](https://www.jeffdstephens.com/journey/)
+- 📫 How to reach me: @jeffdstephens on all platforms basically
+
+### 🍻 Cheers!
